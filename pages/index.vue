@@ -1,5 +1,5 @@
 <template>
-    <div style="color: ;" class="flex">
+    <div class="flex">
         <AsideBar/>
         <div class="bg-stone-50 w-full">
             <header class="h-12 bg-white sticky left-0 top-0 right-0 flex items-center justify-end">
