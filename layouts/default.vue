@@ -10,7 +10,7 @@
                     <div class="h-6 w-6 bg-slate-300 rounded-full">
                     </div>
                     <div>
-                        <small>Admin <span><IconschevronIcon /></span> </small>
+                        <small>Admin <span><Icon name="ic-baseline-keyboard-arrow-down" /></span> </small>
                     </div>
                 </div>
             </header>

@@ -1,5 +1,5 @@
 <template>
-    <div class="w-3/4">
+    <div class="w-[37.4rem]">
         <table class="w-full table-auto bg-white rounded-lg border border-teal-100 w-96">
             <tbody>
                 <tr>
