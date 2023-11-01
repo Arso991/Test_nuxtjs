@@ -38,7 +38,7 @@
                     consequatur quis, hic modi magni vero, laudantium eveniet eligendi expedita quia eum, iure minus?</p>
             </div>
         </div>
-        <div>
+        <div class="flex flex-col gap-5">
             <div class="bg-white p-4 flex flex-col justify-center border border-teal-100 rounded-lg">
                 <div class="w-full flex justify-center">
                     <div class="overflow-hidden object-cover w-16 h-16 rounded-full mb-5">
@@ -70,15 +70,12 @@
                 </div>
                 <p class="text-left text-xs mt-2 mb-8">Frais dépôt transfert</p>
             </div>
-            <div class="bg-white p-5 border border-teal-100 rounded-lg">
+            <div class="bg-white p-5 border border-teal-100 rounded-lg mt-5">
                 <h1 class="text-2xl text-center font-medium mb-8">Avancement</h1>
-                <div>
-                    <!-- <Pie :data="chartData" :config="config" /> -->
+                <div class="flex justify-center">
+                    <PieChartjs />
                 </div>
             </div>
         </div>
     </div>
 </template>
-<script setup>
-
-</script>
