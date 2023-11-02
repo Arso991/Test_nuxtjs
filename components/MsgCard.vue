@@ -4,7 +4,7 @@
             <Icon name="mdi-email-outline" class="text-teal-500" />
         </div>
         <h1 class="font-semibold">Messages</h1>
-        <small class="text-slate-300">Vote boite de messagerie est vide</small>
+        <small class="text-slate-300">Vote boite de messagerie est<Icon name="mdi-email-outline" class="text-teal-500" /> vide</small>
         <button class="text-xs py-1 px-2 bg-teal-100 rounded-lg text-teal-500">Composer un message <Icon name="mdi-pencil-box-outline" /> </button>
     </div>
 </template>

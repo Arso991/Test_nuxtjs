@@ -19,7 +19,9 @@
                 </div>
             </div>
             <div class="mt-4 flex justify-between items-center">
-                <p class="font-semibold"> <span class="text-2xl"> <Icon name="ic-outline-house"/> </span> Duplex Erevan</p>
+                <p class="font-semibold"> <span class="text-2xl">
+                        <Icon name="ic-outline-house" />
+                    </span> Duplex Erevan</p>
                 <p class="text-xs flex gap-5"><span>3 chambres</span><span>2 Douches</span><span>1 Cuisine</span></p>
                 <p class="font-semibold">150.000 $USD</p>
             </div>
@@ -52,13 +54,17 @@
                 </small>
                 <p class="font-semibold mb-4 text-center text-sm">00229 97 23 34 90</p>
                 <div class="border-t border-slate-300 text-center pt-4">
-                    <button class="p-2 bg-teal-100 text-xs rounded-lg text-teal-400">Envoyez message <Icon name="mdi-pencil-box-outline" /> </button>
+                    <button class="p-2 bg-teal-100 text-xs rounded-lg text-teal-400">Envoyez message
+                        <Icon name="mdi-pencil-box-outline" />
+                    </button>
                 </div>
             </div>
             <div class="bg-white p-5 border border-teal-100 rounded-lg">
                 <h1 class="text-2xl text-center font-medium mb-8">Paiement</h1>
                 <div class="flex items-center ps-8">
-                    <div class="w-5 h-5 rounded-full flex items-center justify-center bg-teal-100"><Icon class="text-white text-xl" name="mdi-check" /></div>
+                    <div class="w-5 h-5 rounded-full flex items-center justify-center bg-teal-100">
+                        <Icon class="text-white text-xl" name="mdi-check" />
+                    </div>
                     <div class="w-14 h-1 bg-slate-100"></div>
                     <div class="w-4 h-4 rounded-full bg-slate-100"></div>
                     <div class="w-12 h-1 bg-slate-100"></div>
@@ -74,8 +80,7 @@
                 <h1 class="text-2xl text-center font-medium mb-8">Avancement</h1>
                 <div class="flex justify-center">
                     <PieChartjs />
-                </div>
             </div>
         </div>
     </div>
-</template>
+</div></template>
