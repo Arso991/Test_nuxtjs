@@ -1,7 +1,7 @@
 <template>
     <div class="w-72 bg-white border border-teal-100 rounded-lg shadow-lg">
         <div class="overflow-hidden">
-            <img class="w-full rounded-t-lg h-48 object-cover" src="/Capture d’écran du 2023-10-27 19-47-52.png" alt="">
+            <img class="w-[100%] h-[100%] rounded-t-lg h-48 object-cover" src="/17.jpg" alt="">
         </div>
         <div class="ps-3 mt-5 leading-8">
             <p>Projet en cours</p>
