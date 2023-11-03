@@ -80,7 +80,8 @@
                 <h1 class="text-2xl text-center font-medium mb-8">Avancement</h1>
                 <div class="flex justify-center">
                     <PieChartjs />
+                </div>
             </div>
         </div>
     </div>
-</div></template>
+</template>

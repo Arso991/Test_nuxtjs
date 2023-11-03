@@ -2,7 +2,7 @@
     <div
         class="border-b border-slate-100 py-5 w-full flex items-center justify-between bg-white sticky left-0 top-0 right-0">
         <div class="ps-28">
-            <h2>Bonjour ! et bienvenue dans votre espace client.</h2>
+            <h2><span class="font-medium">Bonjour !</span> et bienvenue dans votre espace client.</h2>
         </div>
         <div class="flex items-center gap-20 pe-20">
             <div class="flex gap-5">
